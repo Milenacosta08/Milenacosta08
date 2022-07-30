@@ -2,7 +2,7 @@
 
 
 - 🔭 Junior Web Developer & Student at the Federal Institute of Education, Science and Technology of Ceara
-- 🌱 I’m currently learning HTML, JavaScript, CSS, SQL, Node, React, C, Python
+- 🌱 I’m currently learning JavaScript, TypeScript, SQL, Node, React, Chakra UI, Java
 
 
 ## LANGUAGES BACK-END AND FRONT-END
@@ -10,8 +10,10 @@
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align = "center" height = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align = "center" height = "40" width = "50" src="https://img.icons8.com/fluency/48/000000/typescript.svg"/>
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" height = "40" width = "50" src="https://img.icons8.com/color/96/000000/sass.svg"/>
 </div>
 
 ## FRAMEWORKS AND OTHER TECHINOLOGIES
@@ -19,7 +21,10 @@
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
+  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/ios-filled/50/000000/django.png"/>
+  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/color/96/000000/chakra-ui.svg"/>
+  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
+  
 </div>
 
 ## HOW TO REACH ME
