@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Milena!
 
 
-- 🔭 Pleno Web Developer & Student at the Federal Institute of Education, Science and Technology of Ceara
+- 🔭 Junior Web Developer & Student at the Federal Institute of Education, Science and Technology of Ceara
 - 🌱 I’m currently learning JavaScript, TypeScript, SQL, Node, React, Chakra UI, Java
 
 
