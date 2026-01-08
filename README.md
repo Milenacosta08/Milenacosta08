@@ -82,3 +82,4 @@ Web Developer graduated in Computer Science from the
 </div>
 
 ![Snake animation](https://github.com/Milenacosta08/Milenacosta08/blob/output/github-contribution-grid-snake.svg)
+
