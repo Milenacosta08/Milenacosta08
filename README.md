@@ -1,30 +1,68 @@
 ### Hi 👋, I'm Milena!
 
+Web Developer graduated in Computer Science from the  
+[Federal Institute of Education, Science and Technology of Ceará (IFCE)](https://www.ifce.edu.br).
 
-- 🔭 Junior Web Developer & Student at the Federal Institute of Education, Science and Technology of Ceara
-- 🌱 I’m currently learning JavaScript, TypeScript, SQL, Node, React, Chakra UI, Java
+- 💻 Web Developer focused on modern frontend and backend technologies
+- 🔬 Researcher at ENAP, working with technology, data and innovation
+- 📚 Currently studying: React Native, Cyber Defense, Data Analysis and Business Intelligence
 
-
-## LANGUAGES BACK-END AND FRONT-END
+## TECH STACK
+**Main Stack:** TypeScript · Next.js · Node.js · PostgreSQL · MySQL · Docker · Power BI Desktop
+ 
+### 🧠 LANGUAGES & CORE TECHNOLOGIES
 <div>
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align = "center" height = "30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align = "center" height = "40" width = "50" src="https://img.icons8.com/fluency/48/000000/typescript.svg"/>
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align = "center" height = "40" width = "50" src="https://img.icons8.com/color/96/000000/sass.svg"/>
+  <img src="https://skills-icons.vercel.app/api/icons?i=ts" title="TypeScript" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=js" title="JavaScript" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=python" title="Python" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=java" title="Java" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=c" title="C" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=html" title="HTML5" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=css3" title="CSS3" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=sass" title="SASS" />
+</div>  
+
+### ⚙️ Frameworks, Libraries & UI
+<div>
+  <img src="https://skills-icons.vercel.app/api/icons?i=react" title="React" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=nextjs" title="Next.js" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=node" title="Node.js" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=express" title="Express.js" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=django" title="Django" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=flask" title="Flask" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=vite" title="Vite" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=expo" title="Expo / React Native" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=tailwind" title="Tailwind CSS" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=chakraui" title="Chakra UI" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=shadcnui" title="shadcn/ui" />
 </div>
 
-## FRAMEWORKS AND OTHER TECHINOLOGIES
+### 🗄️ Databases, ORM & Testing
 <div>
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/ios-filled/50/000000/django.png"/>
-  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/color/96/000000/chakra-ui.svg"/>
-  <img align = "center" height = "30" width = "40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>
-  
+  <img src="https://skills-icons.vercel.app/api/icons?i=sql" title="SQL" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=mysql" title="MySQL" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=postgresql" title="PostgreSQL" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=prisma" title="Prisma ORM" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=typeorm" title="TypeORM" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=jest" title="Jest (Testing)" />
+</div>
+
+### 🚀 DevOps, Messaging & Tools
+<div>
+  <img src="https://skills-icons.vercel.app/api/icons?i=docker" title="Docker" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=coolify" title="Coolify" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=rabbitmq" title="RabbitMQ" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=git" title="Git" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=github" title="GitHub" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=trello" title="Trello" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=slack" title="Slack" />
+</div>
+
+### 📊 Data, Analytics & Business Intelligence
+<div>
+  <img src="https://skills-icons.vercel.app/api/icons?i=powerbi" title="Power BI Desktop" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=tableau" title="Tableau Desktop" />
 </div>
 
 ## HOW TO REACH ME
